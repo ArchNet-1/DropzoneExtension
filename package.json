@@ -1,0 +1,19 @@
+{
+  "name": "com.archnet.extension.dropzone",
+  "version": "1.0.0",
+  "displayName": "Arch Net Extension Dropzone",
+  "description": "Extension Dropzone for gameobjects.",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Extension",
+    "Dropzone",
+    "Custom"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}
