@@ -23,13 +23,13 @@ namespace ArchNet.Extension.DropZone
         /// <summary>
         /// Description : Initiate the  gameobject
         /// </summary>
-        public  void InitDropZone(List<GameObject> pEntities, string pType)
+        public  void InitDropZone(List<GameObject> pEntities)
         {
             _entities = new List<GameObject>();
 
             foreach (GameObject lEntity in pEntities)
             {
-                _entities.Add(Clone(lEntity, pType));
+                _entities.Add(Clone(lEntity));
             }
         }
 
@@ -38,7 +38,7 @@ namespace ArchNet.Extension.DropZone
         /// </summary>
         /// <param name="pTarget"></param>
         /// <returns></returns>
-        private  GameObject Clone(GameObject pTarget, string pType)
+        private  GameObject Clone(GameObject pTarget)
         {
             GameObject lClone = Instantiate(pTarget, _dropzone);
 
