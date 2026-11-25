@@ -1,19 +1,20 @@
 {
   "name": "com.archnet.extension.dropzone",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension Dropzone",
-  "description": "Extension Dropzone for gameobjects.",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Dropzone Extension",
+  "description": "Fills a container (layout group, list…) with copies of prefabs and removes them when the container is disabled.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#DropzoneExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/DropzoneExtension/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/DropzoneExtension/blob/master/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "Dropzone",
-    "Custom"
+    "archnet",
+    "extension",
+    "dropzone"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
