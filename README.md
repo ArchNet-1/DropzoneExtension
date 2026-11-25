@@ -28,4 +28,4 @@ _dropzone.Clear();
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

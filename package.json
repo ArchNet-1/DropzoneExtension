@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Dropzone Extension",
   "description": "Fills a container (layout group, list…) with copies of prefabs and removes them when the container is disabled.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#DropzoneExtension",
   "changelogUrl": "https://github.com/ArchNet-1/DropzoneExtension/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/DropzoneExtension/blob/master/LICENSE.md",
